@@ -12,3 +12,7 @@
 <h2>nodejs</h2>
 <li>nodejs를 이용한 서버 동작 및 웹페이지 구현</li>
 <li>nodejs를 이용한 CRUD 구현</li>
+
+<h2>EXPRESS</h2>
+<li>nodejs를 통해 구현한 서버 및 페이지 EXPRESS를 사용하여 재구현</li>
+<li>EXPRESS는 결국 미들웨어의 집합, 미들웨어를 사용하여 훨씬 깔끔한 코드로 서버 </li>
